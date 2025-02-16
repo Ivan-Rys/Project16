@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="mai03.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="main02.cpp" />
   </ItemGroup>
